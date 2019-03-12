@@ -1,3 +1,4 @@
+#get global parameters
 :global email;
 :global updChannel;
 
