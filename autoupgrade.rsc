@@ -1,5 +1,5 @@
 :global email;
-:local updChannel "long-term";
+:global updChannel;
 
 :put message=">>>>> Check for update..."
 /system package update
